@@ -600,6 +600,7 @@ article{
     width: 100%;
     font-size: 1.5rem;
     justify-content: space-between;
+    padding-right: 1rem;
   }
 
   .aside-tablet-desktop > .profile-icon > .info > .username{
